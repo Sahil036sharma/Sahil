@@ -1,4 +1,3 @@
-# Sahil
 <h1 align="center">Hi 👋, I'm Parshant</h1>
 <h3 align="center">Data Analytics Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
